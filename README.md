@@ -14,7 +14,7 @@ Espero continuar melhorando e explorando novos desafios na área de desenvolvime
 - Implementa operações básicas de CRUD para a entidade Departamento.
 - Prática importante para fixar conceitos de POO, banco de dados e integração Java-SQL.
   
-  ***
+***
 
 ## Minha motivação
 
